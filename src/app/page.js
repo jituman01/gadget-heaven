@@ -1,6 +1,8 @@
 import Navbar from "@/components/Navbar";
 import HeroSection from "@/components/HeroSection";
 import ProductsSection from "@/components/ProductsSection";
+import Testimonials from "@/components/Testimonials";
+import Newsletter from "@/components/Newsletter";
 
 export default function Home() {
   return (
@@ -15,6 +17,8 @@ export default function Home() {
         </h2>
 
         <ProductsSection />
+        <Newsletter/>
+        <Testimonials/>
       </main>
     </div>
   );
