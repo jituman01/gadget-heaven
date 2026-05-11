@@ -1,4 +1,4 @@
-const categories = ["All Product", "Laptops", "Phones", "Accessories", "Smart Watches", "MacBook", "Iphone"];
+const categories = ["All Product", "MacBook", "Accessories", "Phones", "Smart Watches", "Iphone", "Laptops"];
 
 export default function Sidebar({ activeCategory, setActiveCategory }) {
   return (
