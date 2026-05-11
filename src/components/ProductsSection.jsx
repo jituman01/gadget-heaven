@@ -63,7 +63,7 @@ export default function ProductsSection() {
           <div className="text-center mt-12">
             <button
               onClick={() => setShowAll(true)}
-              className="bg-[#9538E2] text-white px-10 py-3 rounded-full font-bold hover:bg-purple-700 transition-all shadow-lg"
+              className="bg-[#9538E2] text-white px-10 py-3 rounded-full font-bold hover:bg-purple-700 transition-all shadow-lg cursor-pointer"
             >
               View All
             </button>

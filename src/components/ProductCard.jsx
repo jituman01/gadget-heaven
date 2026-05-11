@@ -16,7 +16,7 @@ export default function ProductCard({ product }) {
       </div>
 
       <Link href={`/details/${product.product_id}`}>
-      <button className="w-fit border-2 border-[#9538E2] text-[#9538E2] px-2 py-1 rounded-full font-bold hover:bg-[#9538E2] hover:text-white transition-colors duration-300">
+      <button className="w-fit border-2 border-[#9538E2] text-[#9538E2] px-2 py-1 rounded-full font-bold hover:bg-[#9538E2] hover:text-white transition-colors duration-300 cursor-pointer">
         View Details
         </button>
       </Link>

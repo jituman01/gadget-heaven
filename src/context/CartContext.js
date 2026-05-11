@@ -47,8 +47,12 @@ export function CartProvider({ children }) {
     localStorage.setItem("wishlist", JSON.stringify(updated));
   };
 
+  const clearCart = () => {
+  setCart([]); 
+};
+
   return (
-    <CartContext.Provider value={{ cart, wishlist, addToCart, addToWishlist, removeFromCart, removeFromWishlist }}>
+    <CartContext.Provider value={{ cart, wishlist, clearCart, addToCart, addToWishlist, removeFromCart, removeFromWishlist }}>
       {children}
     </CartContext.Provider>
   );

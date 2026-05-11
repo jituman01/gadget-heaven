@@ -86,7 +86,7 @@ export default function ProductDetails() {
             {/* Add to Cart button logic */}
             <button 
               onClick={() => addToCart(product)}
-              className="bg-[#9538E2] text-white px-8 py-3 rounded-full font-bold flex items-center gap-2 hover:bg-purple-700 transition"
+              className="bg-[#9538E2] text-white px-8 py-3 rounded-full font-bold flex items-center gap-2 hover:bg-purple-700 transition cursor-pointer"
             >
               Add To Cart <ShoppingCart size={20} />
             </button>
@@ -103,7 +103,7 @@ export default function ProductDetails() {
             >
 
               <Heart 
-                    className={`w-6 h-6 transition-colors duration-300 ${
+                    className={`w-6 h-6 transition-colors duration-300 cursor-pointer ${
                  isInWishlist 
               ? "text-red-200 fill-red-200 "
               : "text-red-500 fill-none hover:fill-red-500"
