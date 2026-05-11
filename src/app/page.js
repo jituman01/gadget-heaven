@@ -1,16 +1,24 @@
-import HeroSection from "@/components/HeroSection";
 import Navbar from "@/components/Navbar";
-import Image from "next/image";
+import HeroSection from "@/components/HeroSection";
+import ProductsSection from "@/components/ProductsSection";
 
 export default function Home() {
   return (
-    <div>
-
-      <div>
-        <Navbar/>
+    <div className="min-h-screen bg-gray-50">
+      <div className="relative z-50">
+        <Navbar />
       </div>
 
-      Homepage
+
+
+      {/* ProductsSection */}
+      <main className="max-w-7xl mx-auto px-4 mt-20 md:mt-24 pb-20">
+        <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
+          Explore Cutting-Edge Gadgets
+        </h2>
+
+        <ProductsSection />
+      </main>
     </div>
   );
 }

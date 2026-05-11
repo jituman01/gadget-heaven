@@ -2,7 +2,7 @@
   {
     "product_id": "L001",
     "product_title": "Dell XPS 13",
-    "product_image": "/assets/laptops/dell-xps.jpg",
+    "product_image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Laptops",
     "price": 999.99,
     "description": "Premium 13-inch laptop with InfinityEdge display.",

@@ -4,7 +4,7 @@ import React from 'react';
 const HeroSection = () => {
   return (
     <div>
-       <div className="p-4 border-2 border-white/20 rounded-[35px] backdrop-blur-md bg-white/10 shadow-2xl">
+       <div className="p-4 border-2 border-white/20 rounded-[35px] backdrop-blur-md bg-white/10">
             <div className="bg-gray-200 rounded-[24px] overflow-hidden">
               <Image
                 width={1200}
