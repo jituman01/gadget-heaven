@@ -38,7 +38,7 @@ export default function ProductsSection() {
   return (
     <div className="flex flex-col md:flex-row gap-8">
       {/* Left Sidebar */}
-      <div className="w-full md:w-1/4">
+      <div className="w-full md:w-1/6">
         <Sidebar
           activeCategory={activeCategory}
           setActiveCategory={setActiveCategory}
@@ -46,7 +46,7 @@ export default function ProductsSection() {
       </div>
 
       {/* Right Product Section */}
-      <div className="w-full md:w-3/4">
+      <div className="w-full md:w-5/6">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {displayedProducts.length > 0 ? (
             displayedProducts.map(product => (

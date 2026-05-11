@@ -4,12 +4,9 @@ import ProductsSection from "@/components/ProductsSection";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen">
       <div className="relative z-50">
-        <Navbar />
       </div>
-
-
 
       {/* ProductsSection */}
       <main className="max-w-7xl mx-auto px-4 mt-20 md:mt-24 pb-20">
