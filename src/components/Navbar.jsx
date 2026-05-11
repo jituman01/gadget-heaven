@@ -11,13 +11,18 @@ export default function Navbar() {
 
   return (
     <section className={`px-6 pt-6 ${!isHome ? 'bg-white' : ''}`}>
+
+      
       {/* home page and others page navbar changes */}
+      
       <div className={`${isHome ? 'bg-[#9538E2] rounded-[32px] pb-60 text-white relative' : 'text-black'}`}>
         
         {/* Navigation Bar */}
         <nav className="flex justify-between items-center px-10 py-2 max-w-7xl mx-auto">
-          <div className="font-bold text-2xl text-[#9538E2]">
-            <Link href="/">Gadget Heaven</Link>
+          <div className="font-bold text-3xl">
+            <Link href="/"
+              className={pathname === '/' ? "text-white font-bold" :'text-[#9538E2]'}
+            >Gadget Heaven</Link>
           </div>
 
           <div className="hidden md:flex gap-8 font-medium">
@@ -79,7 +84,7 @@ export default function Navbar() {
 
       {/* Spacing logic */}
       {isHome ? (
-        <div className="h-[250px] md:h-[450px]"></div>
+        <div className="h-[50px] md:h-[450px]"></div>
       ) : (
         <div className="h-4"></div> 
       )}

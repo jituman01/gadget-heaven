@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function ProductCard({ product }) {
   return (
-    <div className="bg-white p-4 rounded-xl shadow-lg border border-gray-100 flex flex-col gap-4">
+    <div className="bg-white p-4 rounded-xl  border  flex flex-col gap-4">
       <div className="bg-gray-200 rounded-xl overflow-hidden h-44">
         <img 
           src={product.product_image} 

@@ -38,7 +38,7 @@ export default function ProductDetails() {
         </p>
       </div>
 
-      <div className="max-w-6xl mx-auto -mt-40 bg-white rounded-3xl p-8 flex flex-col md:flex-row gap-9 shadow-lg">
+      <div className="max-w-6xl mx-auto -mt-40 bg-white rounded-3xl p-8 flex flex-col md:flex-row gap-9">
         <div className="w-full md:w-1/3 rounded-2xl flex items-center justify-center ">
           <img
             src={product.product_image}

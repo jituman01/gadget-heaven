@@ -2,10 +2,10 @@ import { Trash } from 'lucide-react';
 
 export default function CartItem({ item, onRemove }) {
   return (
-    <div className="bg-white p-6 rounded-2xl flex items-center gap-8 shadow-sm border relative">
+    <div className="bg-white p-6 rounded-2xl flex items-center gap-8 border border-gray-200 relative">
       <img
         src={item.product_image}
-        className="w-48 h-32 object-contain bg-gray-100 rounded-xl"
+        className="w-48 h-32 object-cover rounded-xl"
         alt={item.product_title}
       />
       <div className="flex-1">

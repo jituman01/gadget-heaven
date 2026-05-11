@@ -9,8 +9,8 @@ export default function Home() {
       </div>
 
       {/* ProductsSection */}
-      <main className="max-w-7xl mx-auto px-4 mt-20 md:mt-24 pb-20">
-        <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
+      <main className="max-w-7xl mx-auto px-4 mt-10 md:mt-24 pb-20">
+        <h2 className="text-3xl md:text-4xl font-bold text-center mb-5 md:mb-12">
           Explore Cutting-Edge Gadgets
         </h2>
 
