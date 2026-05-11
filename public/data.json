@@ -13,7 +13,7 @@
   {
     "product_id": "L002",
     "product_title": "HP Spectre x360",
-    "product_image": "/assets/laptops/hp-spectre.jpg",
+    "product_image": "https://images.unsplash.com/photo-1621570273800-1b50b0173a97?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Laptops",
     "price": 1249.00,
     "description": "High-performance 2-in-1 convertible laptop.",
@@ -24,7 +24,7 @@
   {
     "product_id": "L003",
     "product_title": "Asus Zenbook 14",
-    "product_image": "/assets/laptops/asus-zen.jpg",
+    "product_image": "https://images.unsplash.com/photo-1636211993589-6daf32038bd1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Laptops",
     "price": 849.50,
     "description": "Ultraslim laptop for everyday productivity.",
@@ -35,7 +35,7 @@
   {
     "product_id": "L004",
     "product_title": "Lenovo Yoga 7i",
-    "product_image": "/assets/laptops/lenovo-yoga.jpg",
+    "product_image": "https://images.unsplash.com/photo-1763162410742-1d0097cea556?q=80&w=1217&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Laptops",
     "price": 799.00,
     "description": "Versatile laptop with vibrant touch display.",
@@ -46,7 +46,7 @@
   {
     "product_id": "L005",
     "product_title": "Acer Swift Go",
-    "product_image": "/assets/laptops/acer-swift.jpg",
+    "product_image": "https://images.unsplash.com/photo-1525972183131-2f5c48254ec4?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Laptops",
     "price": 649.99,
     "description": "Fast and light laptop with OLED display.",
@@ -57,7 +57,7 @@
   {
     "product_id": "L006",
     "product_title": "Razer Blade 14",
-    "product_image": "/assets/laptops/razer.jpg",
+    "product_image": "https://images.unsplash.com/photo-1767716843182-c2ab215555a8?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Laptops",
     "price": 1899.00,
     "description": "Powerful gaming laptop in a compact form.",
@@ -68,7 +68,7 @@
   {
     "product_id": "P001",
     "product_title": "Samsung S24 Ultra",
-    "product_image": "/assets/phones/s24.jpg",
+    "product_image": "https://images.unsplash.com/photo-1756877564709-51eeda47a093?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Phones",
     "price": 1299.00,
     "description": "The ultimate smartphone with Galaxy AI.",
@@ -79,7 +79,7 @@
   {
     "product_id": "P002",
     "product_title": "Google Pixel 8 Pro",
-    "product_image": "/assets/phones/pixel8.jpg",
+    "product_image": "https://images.unsplash.com/photo-1697355360151-2866de32ad4d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Phones",
     "price": 899.50,
     "description": "The most advanced Pixel with AI smarts.",
@@ -90,7 +90,7 @@
   {
     "product_id": "P003",
     "product_title": "OnePlus 12",
-    "product_image": "/assets/phones/oneplus12.jpg",
+    "product_image": "https://images.unsplash.com/photo-1773293915418-fb03a80120a7?q=80&w=881&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Phones",
     "price": 749.00,
     "description": "Fast and smooth performance with Hasselblad camera.",
@@ -101,7 +101,7 @@
   {
     "product_id": "P004",
     "product_title": "Nothing Phone 2",
-    "product_image": "/assets/phones/nothing2.jpg",
+    "product_image": "https://images.unsplash.com/photo-1721059537509-a0eeaa242bf6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Phones",
     "price": 599.00,
     "description": "Unique Glyph interface and clean OS.",
@@ -112,7 +112,7 @@
   {
     "product_id": "P005",
     "product_title": "Xiaomi 14 Ultra",
-    "product_image": "/assets/phones/xiaomi14.jpg",
+    "product_image": "https://images.unsplash.com/photo-1774437306236-d8bf38d80888?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Phones",
     "price": 1099.99,
     "description": "Leica optics for professional mobile photography.",
@@ -123,7 +123,7 @@
   {
     "product_id": "P006",
     "product_title": "Sony Xperia 1 V",
-    "product_image": "/assets/phones/xperia.jpg",
+    "product_image": "https://images.unsplash.com/photo-1695435478239-0828b8bfc8c1?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Phones",
     "price": 1199.00,
     "description": "4K HDR display for creators and media lovers.",
