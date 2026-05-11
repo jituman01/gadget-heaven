@@ -10,7 +10,7 @@ export default function Navbar() {
   const isHome = pathname === '/';
 
   return (
-    <section className={`px-4 pt-4 ${!isHome ? 'bg-white' : ''}`}>
+    <section className={`px-6 pt-6 ${!isHome ? 'bg-white' : ''}`}>
       {/* home page and others page navbar changes */}
       <div className={`${isHome ? 'bg-[#9538E2] rounded-[32px] pb-60 text-white relative' : 'text-black'}`}>
         
