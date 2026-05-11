@@ -134,7 +134,7 @@
   {
     "product_id": "A001",
     "product_title": "Sony WH-1000XM5",
-    "product_image": "/assets/accessories/sony-head.jpg",
+    "product_image": "https://images.unsplash.com/photo-1612858249816-5a91a9fb9886?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Accessories",
     "price": 348.00,
     "description": "Industry-leading noise cancelling headphones.",
@@ -145,7 +145,7 @@
   {
     "product_id": "A002",
     "product_title": "Logitech MX Master 3S",
-    "product_image": "/assets/accessories/mouse.jpg",
+    "product_image": "https://images.unsplash.com/photo-1625750319971-ee4b61e68df8?q=80&w=1229&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Accessories",
     "price": 99.00,
     "description": "Ultimate ergonomic productivity mouse.",
@@ -156,7 +156,7 @@
   {
     "product_id": "A003",
     "product_title": "Keychron K2 V2",
-    "product_image": "/assets/accessories/keychron.jpg",
+    "product_image": "https://images.unsplash.com/photo-1643803792614-039e749d05b5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Accessories",
     "price": 79.50,
     "description": "Wireless mechanical keyboard for Mac and Windows.",
@@ -167,7 +167,7 @@
   {
     "product_id": "A004",
     "product_title": "Anker 737 Power Bank",
-    "product_image": "/assets/accessories/anker.jpg",
+    "product_image": "https://images.unsplash.com/photo-1632156752398-2b2cb4e6c907?q=80&w=1026&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Accessories",
     "price": 149.00,
     "description": "Ultra-powerful 140W fast charging power bank.",
@@ -178,7 +178,7 @@
   {
     "product_id": "A005",
     "product_title": "Bose QuietComfort Ultra",
-    "product_image": "/assets/accessories/bose.jpg",
+    "product_image": "https://images.unsplash.com/photo-1674658556545-f18d4080ab6c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Accessories",
     "price": 429.00,
     "description": "World-class noise cancellation with spatial audio.",
@@ -189,7 +189,7 @@
   {
     "product_id": "A006",
     "product_title": "SanDisk 1TB SSD",
-    "product_image": "/assets/accessories/sandisk.jpg",
+    "product_image": "https://images.unsplash.com/photo-1739742473328-eddb0e0fd3a0?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Accessories",
     "price": 115.00,
     "description": "Portable SSD with fast NVMe performance.",
@@ -200,7 +200,7 @@
   {
     "product_id": "W001",
     "product_title": "Garmin Fenix 7 Pro",
-    "product_image": "/assets/watches/garmin.jpg",
+    "product_image": "https://images.unsplash.com/photo-1656955178167-3888ac44843c?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Smart Watches",
     "price": 699.00,
     "description": "Ultimate multisport GPS watch with solar charging.",
@@ -211,7 +211,7 @@
   {
     "product_id": "W002",
     "product_title": "Samsung Watch 6 Classic",
-    "product_image": "/assets/watches/watch6.jpg",
+    "product_image": "https://images.unsplash.com/photo-1553545204-4f7d339aa06a?q=80&w=1093&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Smart Watches",
     "price": 329.99,
     "description": "Iconic rotating bezel and sleep coaching.",
@@ -222,7 +222,7 @@
   {
     "product_id": "W003",
     "product_title": "Pixel Watch 2",
-    "product_image": "/assets/watches/pixel-watch.jpg",
+    "product_image": "https://images.unsplash.com/photo-1736269499428-204a6daf9bf8?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Smart Watches",
     "price": 349.00,
     "description": "The best of Google and Fitbit combined.",
@@ -233,7 +233,7 @@
   {
     "product_id": "W004",
     "product_title": "Huawei Watch GT 4",
-    "product_image": "/assets/watches/huawei.jpg",
+    "product_image": "https://images.unsplash.com/photo-1713470411177-69b6505c4536?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Smart Watches",
     "price": 249.00,
     "description": "Fashionable smart watch with 14-day battery life.",
@@ -244,7 +244,7 @@
   {
     "product_id": "W005",
     "product_title": "Amazfit GTR 4",
-    "product_image": "/assets/watches/amazfit.jpg",
+    "product_image": "https://images.unsplash.com/photo-1676315636794-04c032cff6a9?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Smart Watches",
     "price": 199.00,
     "description": "Accurate health tracking and GPS.",
@@ -255,7 +255,7 @@
   {
     "product_id": "W006",
     "product_title": "Fossil Gen 6",
-    "product_image": "/assets/watches/fossil.jpg",
+    "product_image": "https://images.unsplash.com/photo-1633339257099-3697720c2c3c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Smart Watches",
     "price": 229.00,
     "description": "Classic look with modern smartwatch features.",
@@ -266,7 +266,7 @@
   {
     "product_id": "M001",
     "product_title": "MacBook Air M3",
-    "product_image": "/assets/macbook/m3-air.jpg",
+    "product_image": "https://images.unsplash.com/photo-1571802354043-2de0527b14af?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "MacBook",
     "price": 1099.00,
     "description": "The world's most popular laptop is now even better.",
@@ -277,7 +277,7 @@
   {
     "product_id": "M002",
     "product_title": "MacBook Pro 14 M3",
-    "product_image": "/assets/macbook/m3-pro.jpg",
+    "product_image": "https://images.unsplash.com/photo-1722850646236-61c6f917df96?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "MacBook",
     "price": 1599.00,
     "description": "Powerful pro laptop with Liquid Retina XDR.",
@@ -288,7 +288,7 @@
   {
     "product_id": "M003",
     "product_title": "MacBook Pro 16 M3 Max",
-    "product_image": "/assets/macbook/m3-max.jpg",
+    "product_image": "https://images.unsplash.com/photo-1639087595550-e9770a85f8c0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "MacBook",
     "price": 3499.00,
     "description": "Extreme performance for the most demanding tasks.",
@@ -299,7 +299,7 @@
   {
     "product_id": "M004",
     "product_title": "MacBook Air M1",
-    "product_image": "/assets/macbook/m1-air.jpg",
+    "product_image": "https://images.unsplash.com/photo-1657936412057-67a8bb0a04a8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "MacBook",
     "price": 899.00,
     "description": "Still the best value MacBook for students.",
@@ -310,7 +310,7 @@
   {
     "product_id": "M005",
     "product_title": "MacBook Pro 13 M2",
-    "product_image": "/assets/macbook/m2-pro.jpg",
+    "product_image": "https://images.unsplash.com/photo-1710905219584-8521769e3678?q=80&w=1255&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "MacBook",
     "price": 1299.00,
     "description": "The classic Pro design with M2 power.",
@@ -321,7 +321,7 @@
   {
     "product_id": "M006",
     "product_title": "Refurbished MacBook Pro",
-    "product_image": "/assets/macbook/refurb.jpg",
+    "product_image": "https://images.unsplash.com/photo-1710905018864-d585574d79f8?q=80&w=1187&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "MacBook",
     "price": 750.00,
     "description": "Great performance at a lower price point.",
@@ -332,7 +332,7 @@
   {
     "product_id": "I001",
     "product_title": "iPhone 15 Pro Max",
-    "product_image": "/assets/iphone/15promax.jpg",
+    "product_image": "https://images.unsplash.com/photo-1695639509828-d4260075e370?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Iphone",
     "price": 1199.00,
     "description": "The ultimate iPhone with titanium design.",
@@ -343,7 +343,7 @@
   {
     "product_id": "I002",
     "product_title": "iPhone 15",
-    "product_image": "/assets/iphone/15.jpg",
+    "product_image": "https://images.unsplash.com/photo-1703434123142-1b41a1b1055b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Iphone",
     "price": 799.00,
     "description": "Dynamic Island and a powerful 48MP camera.",
@@ -354,7 +354,7 @@
   {
     "product_id": "I003",
     "product_title": "iPhone 14 Plus",
-    "product_image": "/assets/iphone/14plus.jpg",
+    "product_image": "https://images.unsplash.com/photo-1663314326611-9e2fd4f11b1b?q=80&w=1025&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Iphone",
     "price": 699.00,
     "description": "Big screen and the best battery life.",
@@ -365,7 +365,7 @@
   {
     "product_id": "I004",
     "product_title": "iPhone 13 Mini",
-    "product_image": "/assets/iphone/13mini.jpg",
+    "product_image": "https://images.unsplash.com/photo-1632518192421-56aba73eae55?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Iphone",
     "price": 599.00,
     "description": "The best compact smartphone in the world.",
@@ -376,7 +376,7 @@
   {
     "product_id": "I005",
     "product_title": "iPhone SE (2022)",
-    "product_image": "/assets/iphone/se.jpg",
+    "product_image": "https://images.unsplash.com/flagged/photo-1504279238067-5840e46f31c3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Iphone",
     "price": 429.00,
     "description": "Powerful chip in the classic iPhone design.",
@@ -387,7 +387,7 @@
   {
     "product_id": "I006",
     "product_title": "iPhone 15 Plus",
-    "product_image": "/assets/iphone/15plus.jpg",
+    "product_image": "https://images.unsplash.com/photo-1743677221330-9886caa74fcc?q=80&w=1072&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "category": "Iphone",
     "price": 899.00,
     "description": "Big screen experience with the latest tech.",
