@@ -16,7 +16,7 @@ export default function Navbar() {
         
         {/* Navigation Bar */}
         <nav className="flex justify-between items-center px-10 py-2 max-w-7xl mx-auto">
-          <div className="font-bold text-2xl">
+          <div className="font-bold text-2xl text-[#9538E2]">
             <Link href="/">Gadget Heaven</Link>
           </div>
 
@@ -43,10 +43,10 @@ export default function Navbar() {
 
           {/* Icons Section */}
           <div className="flex gap-3">
-            <button className={`p-3 rounded-full shadow-lg hover:scale-110 transition border ${isHome ? 'bg-white text-black' : 'bg-white text-black border-gray-200'}`}>
+            <button className={`p-3 rounded-full hover:scale-110 transition border ${isHome ? 'bg-white text-black' : 'bg-white text-black border-gray-200'}`}>
               <PiShoppingCartBold size={20} />
             </button>
-            <button className={`p-3 rounded-full shadow-lg hover:scale-110 transition border ${isHome ? 'bg-white text-black' : 'bg-white text-black border-gray-200'}`}>
+            <button className={`p-3 rounded-full hover:scale-110 transition border ${isHome ? 'bg-white text-black' : 'bg-white text-black border-gray-200'}`}>
               <PiHeartBold size={20} />
             </button>
           </div>
